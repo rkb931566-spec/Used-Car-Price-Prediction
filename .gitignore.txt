@@ -1,7 +1,23 @@
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-joblib
-jupyter
+# Python cache files
+
+**pycache**/
+*.py[cod]
+
+# Virtual environment
+
+.venv/
+venv/
+env/
+
+# Jupyter Notebook temporary files
+
+.ipynb_checkpoints/
+
+# IDE settings
+
+.vscode/
+
+# Operating system files
+
+.DS_Store
+Thumbs.db
